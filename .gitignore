@@ -74,9 +74,3 @@ ENV/
 # OS
 .DS_Store
 Thumbs.db
-
-# Model files (if large)
-*.pkl
-*.joblib
-*.h5
-*.hdf5
